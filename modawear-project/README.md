@@ -1,1 +1,2 @@
-Modawear website project - HTML, CSS and Javascript source files.
+Modawear website project
+This project contains the HTML CSS and Javascript file collected from my Modawear Wordpres website
